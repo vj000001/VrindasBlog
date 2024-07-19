@@ -1,0 +1,176 @@
+Skip to main content
+Google Classroom
+Classroom
+EmpowerED Middle School Summer Camp
+HTML and CSS
+Stream
+Classwork
+People
+Expanded DAY 2: Your Blog/Portfolio SiteClasswork for EmpowerED Middle School Summer Camp HTML and CSS
+All topics
+💡Website Project Work
+💡Website Project Work
+Assignment
+DAY 2: Website Prototype
+Due Jul 16, 11:59 PM
+Assignment
+DAY 2: Website Project Brainstorming!
+Due Jul 16, 11:59 PM
+Assignment
+DAY 1: Your First Website!
+10
+10 comments
+Due Jul 15, 11:59 PM
+💻 Daily Lessons
+💻 Daily Lessons
+Material
+DAY 4: Enhancing our Blog!
+Posted 9:02 AM
+Material
+DAY 3: Workshop with McMaster Start Coding
+Edited Yesterday
+Material
+DAY 2: Creating our Personal Blog!
+Posted Jul 16
+Material
+DAY 1: Introduction to HTML and CSS!
+Posted Jul 15
+📽 Session Recordings
+📽 Session Recordings
+Material
+DAY 3: Session Recording
+Posted Yesterday
+Material
+DAY 2: Session Recording
+Posted Jul 16
+Material
+DAY 1: Session Recording
+Posted Jul 15
+📝 Reference Code
+📝 Reference Code
+Material
+DAY 3: McMaster Code
+Posted Yesterday
+Material
+DAY 2: Your Blog/Portfolio Site
+Posted Jul 16
+
+index.html
+HTML
+
+style.css
+Style Sheet
+Material
+DAY 1: Basics of HTML and CSS
+Posted Jul 15
+Material
+DAY 1: Basics of HTML
+Edited Jul 15
+Material
+Starter HTML Code
+Posted Jul 16
+🔗 Additional Resources
+🔗 Additional Resources
+Material
+Visual Studio Code Download
+Posted 9:04 AM
+Material
+Where You Will Be Coding: CodePen
+Posted Jul 14
+Material
+CSS Font Families
+Posted Jul 15
+body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+header {
+    background-image: url("https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjU0NmJhdGNoMy1teW50LTM0LWJhZGdld2F0ZXJjb2xvcl8xLmpwZw.jpg");
+    background-size: cover;
+    text-align: center;
+    padding: 10px;
+    background-color: #f4f4f4;
+}
+
+header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+main {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+section {
+    background-color: #fff;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+section:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+    margin-top: 0;
+    color: #d82390;
+    font-size: 1.8em;
+}
+
+.date {
+    color: #999;
+    font-size: 0.9em;
+    margin-bottom: 10px;
+}
+
+.fun-facts ul {
+    list-style: none;
+    padding: 0;
+}
+
+.fun-facts ul li {
+    background: #eed1ea;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+iframe {
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    background-color: #ce9b9b;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    box-shadow: 0 -2px 6px rgba(0, 0, 0, 0.1);
+}
+
+footer p {
+    margin: 0;
+}
+
+.side-by-side {
+    display: inline-block;
+    border: #d82390 solid 5px;
+    margin-right: 100px;
+}
